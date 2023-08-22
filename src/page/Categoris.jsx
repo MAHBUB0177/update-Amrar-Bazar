@@ -15,6 +15,8 @@ export const Categoris = () => {
   TabTitle('Amar Bazar | Category')
   return (
     <div style={{background:'#f2eeed',paddingTop:'20px'}}>
+
+
           <section className='category-product'>
                     <div className='container'>
                               <div className='section-title text-center'>
